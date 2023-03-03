@@ -11,7 +11,7 @@ header>p {
     font-size: 20px;
 }
 .first {
-    background-image: url(image/background1.png);
+    background-image: url(background1.png);
     height: 900px;
     background-size: cover;
 }
